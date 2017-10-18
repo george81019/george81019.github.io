@@ -1,7 +1,9 @@
 
 body
 {
-   background:url('1.jpg') center center fixed no-repeat; background-size:cover;
+   background:url('1.jpg') center center fixed no-repeat;
+   background-size:cover;
+   
 }
 
 h1
